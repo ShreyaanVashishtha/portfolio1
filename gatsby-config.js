@@ -6,8 +6,8 @@ const plugins = [
   {
     resolve: `gatsby-theme-mate`,
     options: {
-      accessToken: ACCESS_TOKEN,
-      spaceId: SPACE_ID,
+      accessToken: CFPAT-0rxzIhQYl7x0uI_qv_lkR3AGfPWsxs6WGm8KxFr4u9w,
+      spaceId: brpm951cnrgc,
     },
   },
 ];
